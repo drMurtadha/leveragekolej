@@ -1,4 +1,4 @@
-# Keburukan
+# Keburukan tadbir urus di kolej kediaman yang sedia ada
 ---
 | Bil.  | Perkara | Huraian |
 |----|-------------------|----------|
