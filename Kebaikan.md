@@ -1,4 +1,4 @@
-# Kebaikan
+# Kebaikan tadbir urus di kolej kediaman yang sedia ada
 ---
 | Bil.  | Perkara | Huraian |
 |----|-------------------|----------|
